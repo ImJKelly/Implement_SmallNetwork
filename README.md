@@ -11,3 +11,16 @@ Screenshots of the addressing table, network topology, connectivity between devi
 - Switching and Routing</br>
 - Subnetting</br>
 - Inter-VLAN routing
+
+<h2>Screenshots</h2>
+<h3>Address Table</h3>
+<img src="https://github.com/user-attachments/assets/19ce3109-24d1-4db0-99b7-5209d67faba4"/></br>
+
+<h3>Network Topology</h3>
+<img src="https://github.com/user-attachments/assets/f506eb44-7ff7-4fa0-b238-f00a31ec5553"/></br>
+
+<h3>Ping from PC-1 to PC-2 (Network Connectivity)</h3>
+<img src="https://github.com/user-attachments/assets/be495ae9-5a0f-4dd5-99ff-58ad8882bea5"/></br>
+
+<h3>Lab Completion Percentage</h3>
+<img src="https://github.com/user-attachments/assets/760834b8-0214-47d8-ba4b-ad918e727b19"/>
